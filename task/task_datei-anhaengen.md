@@ -5,4 +5,6 @@ Um eine Datei an eine Aufgabe anzuhängen, führen Sie folgende Schritte durch:
 
     **Hinweis:** Erlaubte Dateitypen sind *.docx, *.xlsx und *.txt. 
 
+    **Hinweis:** Erlaubte Dateitypen sind *.pdf, *.md und *.xml.
+
 Die Datei wird hochgeladen und an die Aufgabe angehängt. In der Aufgabenübersicht werden Aufgaben mit Dateianhängen mit einem Icon gekennzeichnet. 

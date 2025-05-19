@@ -7,4 +7,3 @@ Um eine Aufgabe zu erstellen, öffnen Sie die Aufgabenverwaltung und führen fol
     * Datum der Endbereitstellung
     
 1. Klicken Sie auf erstellen unten rechts
-

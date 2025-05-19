@@ -4,10 +4,6 @@ Um eine Aufgabe zu erstellen, öffnen Sie die Aufgabenverwaltung und führen fol
 1. Befüllen Sie die Felder
     * Überschrift
     *  Beschreibung
-    * Datum der Fertigstellung
+    * Datum der Endbereitstellung
     
 1. Klicken Sie auf erstellen unten rechts
-```
-Dies ist ein Codeblock
-```
-Nun sehen Sie die erstelle Aufgabe in der Übersicht der Aufgabenverwaltung.

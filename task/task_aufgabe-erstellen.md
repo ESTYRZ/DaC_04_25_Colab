@@ -9,4 +9,4 @@ Um eine Aufgabe zu erstellen, öffnen Sie die Aufgabenverwaltung und führen fol
     
 1. Klicken Sie auf erstellen unten rechts
 
-Ergebnis: Nun sehen Sie die erstelle Aufgabe in der Übersicht der Aufgabenverwaltung.
+Nun sehen Sie die erstellte Aufgabe in der Übersicht der Aufgabenverwaltung.
